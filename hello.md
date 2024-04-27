@@ -19,7 +19,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 |4/26      |  9:00Pm  |   IM   | Hello World and figuring out GitHub        |  1:10       |                                       
-|4/27      |  11Am    |   IM   | Youtube video                              |  30 minutes |
+|4/26      |  10:10Am |   IM   | Youtube video                              |  15 minutes |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
@@ -33,7 +33,11 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 1. Put your GitHub link for your demonstration software here: 
 
+https://github.com/crtubbbs/hello-world-cse-310
+
 2. Put your YouTube link for your code walkthrough and demo video here:
+
+https://youtu.be/4jkdpIvjr14
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
