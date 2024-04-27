@@ -43,11 +43,11 @@ https://youtu.be/4jkdpIvjr14
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
+|Are the links above public and working?                     | Yes    |
+|Did you complete all the unique requirements for the module?| Yes    |
 |Did you write at least 100 lines of code?                   | N/A    |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Did you fully complete the readme.md file?                  | Yes    |
+|Did you put the readme.md file in GitHub in the top folder? | Yes    |
 
 4. In each Sprint, you will have the opportunity to complete an optional Stretch Challenge for bonus points.  You will normally report what you did here.  There is no Stretch Challenge for Hello World.
 
@@ -55,7 +55,7 @@ https://youtu.be/4jkdpIvjr14
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|   1:40            |
+|Individual Module|   1:25            |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
